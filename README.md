@@ -1,4 +1,4 @@
-# SmartObjectsSystem
+# Unity_SmartObjectsSystem
 Unity game object that can morph into any type of custom game object or prefab
 
  The 'Smart Game Objects System' is a Unity editor 
